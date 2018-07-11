@@ -22,7 +22,7 @@ const store = new Vuex.Store({
       },
       actions: {
         barAction({ commit }, payload) {
-          commit(TEST, payload)
+          commit('barMutation', payload)
         },
       },
       getters: {
