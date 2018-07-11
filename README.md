@@ -1,5 +1,8 @@
 # vuex-connect-namespace-helper
 
+[![npm version](https://badge.fury.io/js/vuex-connect-namespace-helper.svg)](https://badge.fury.io/js/vuex-connect-namespace-helper)
+[![Build Status](https://travis-ci.org/nakajmg/vuex-connect-namespace-helper.svg?branch=travis)](https://travis-ci.org/nakajmg/vuex-connect-namespace-helper)
+
 A binding namespaced module helper for vuex-connect.
 
 ## Example
