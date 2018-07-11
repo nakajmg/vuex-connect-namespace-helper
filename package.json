@@ -1,0 +1,31 @@
+{
+  "name": "vuex-connect-namespace-helper",
+  "version": "1.0.0",
+  "description": "namespaced module helper for vuex-connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "vuex-connect",
+    "connect"
+  ],
+  "author": "nakajmg",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/test-utils": "^1.0.0-beta.20",
+    "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-jest": "^23.4.0",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.4.0",
+    "vue": "^2.5.16",
+    "vue-jest": "^2.6.0",
+    "vue-template-compiler": "^2.5.16",
+    "vuex": "^3.0.1",
+    "vuex-connect": "^2.1.0"
+  }
+}
