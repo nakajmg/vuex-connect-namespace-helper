@@ -1,6 +1,6 @@
 {
   "name": "vuex-connect-namespace-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "namespaced module helper for vuex-connect",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,10 @@
     "vue-template-compiler": "^2.5.16",
     "vuex": "^3.0.1",
     "vuex-connect": "^2.1.0"
-  }
+  },
+  "repository": "https://github.com/nakajmg/vuex-connect-namespace-helper",
+  "bugs": {
+    "url": "https://github.com/nakajmg/vuex-connect-namespace-helper/issues"
+  },
+  "homepage": "https://github.com/nakajmg/vuex-connect-namespace-helper#readme"
 }
