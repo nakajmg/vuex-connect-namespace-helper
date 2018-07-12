@@ -1,6 +1,6 @@
 {
   "name": "vuex-connect-namespace-helper",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "namespaced module helper for vuex-connect",
   "main": "index.js",
   "scripts": {
