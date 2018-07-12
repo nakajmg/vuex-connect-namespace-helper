@@ -6,10 +6,10 @@ const actionsToProps = require('./lib/actionsToProps')
 const actionsToEvents = require('./lib/actionsToEvents')
 
 module.exports = {
-  stateToProps,
-  gettersToProps,
-  mutationsToProps,
-  mutationsToEvents,
-  actionsToEvents,
-  actionsToProps,
+  stateToProps: stateToProps,
+  gettersToProps: gettersToProps,
+  mutationsToProps: mutationsToProps,
+  mutationsToEvents: mutationsToEvents,
+  actionsToEvents: actionsToEvents,
+  actionsToProps: actionsToProps,
 }
